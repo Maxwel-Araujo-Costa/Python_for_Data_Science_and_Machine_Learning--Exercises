@@ -36,3 +36,10 @@ print(output1)  # Desired Output 1
 
 print(mat[2:,1:])  # Alternative solution to Desired Output 1
 
+print(mat[3][4])   #Desired Output 2
+
+print(mat[0:3,1:2])  #Desired Output 3
+
+print(mat[4])  #Desired Output 4
+
+print(mat[3:,0:]) #Desired Output 5
