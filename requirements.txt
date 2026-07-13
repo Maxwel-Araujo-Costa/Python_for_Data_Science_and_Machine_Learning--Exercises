@@ -1,0 +1,35 @@
+# ==========================
+# Core Data Science
+# ==========================
+numpy
+pandas
+#scipy
+
+# ==========================
+# Visualization
+# ==========================
+matplotlib
+seaborn
+plotly
+
+# ==========================
+# Machine Learning
+# ==========================
+scikit-learn
+tensorflow
+
+# ==========================
+# Jupyter Environment
+# ==========================
+jupyter
+ipykernel
+
+# ==========================
+# Data Formats
+# ==========================
+openpyxl
+
+# ==========================
+# Utilities
+# ==========================
+requests
